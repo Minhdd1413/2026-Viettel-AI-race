@@ -1,157 +1,438 @@
-{"rxcui": "207106", "name": "Aspirin", "tty": "BN", "language": "EN", "category": "NSAID", "dosage": "325mg, 500mg, 650mg", "related_names": {}}
-{"rxcui": "203456", "name": "Ibuprofen", "tty": "BN", "language": "EN", "category": "NSAID", "dosage": "200mg, 400mg, 600mg, 800mg", "related_names": {}}
-{"rxcui": "209459", "name": "Acetaminophen", "tty": "BN", "language": "EN", "category": "Analgesic", "dosage": "325mg, 500mg, 650mg", "related_names": {}}
-{"rxcui": "197605", "name": "Naproxen", "tty": "BN", "language": "EN", "category": "NSAID", "dosage": "220mg, 250mg, 375mg, 500mg", "related_names": {}}
-{"rxcui": "153010", "name": "Diclofenac", "tty": "BN", "language": "EN", "category": "NSAID", "dosage": "50mg, 75mg", "related_names": {}}
-{"rxcui": "198022", "name": "Meloxicam", "tty": "BN", "language": "EN", "category": "NSAID", "dosage": "7.5mg, 15mg", "related_names": {}}
-{"rxcui": "103919", "name": "Indomethacin", "tty": "BN", "language": "EN", "category": "NSAID", "dosage": "25mg, 50mg", "related_names": {}}
-{"rxcui": "316062", "name": "Lisinopril", "tty": "BN", "language": "EN", "category": "ACE Inhibitor", "dosage": "5mg, 10mg, 20mg, 40mg", "related_names": {}}
-{"rxcui": "197884", "name": "Enalapril", "tty": "BN", "language": "EN", "category": "ACE Inhibitor", "dosage": "2.5mg, 5mg, 10mg, 20mg", "related_names": {}}
-{"rxcui": "104375", "name": "Ramipril", "tty": "BN", "language": "EN", "category": "ACE Inhibitor", "dosage": "1.25mg, 2.5mg, 5mg, 10mg", "related_names": {}}
-{"rxcui": "199370", "name": "Captopril", "tty": "BN", "language": "EN", "category": "ACE Inhibitor", "dosage": "12.5mg, 25mg, 50mg", "related_names": {}}
-{"rxcui": "104229", "name": "Metoprolol", "tty": "BN", "language": "EN", "category": "Beta Blocker", "dosage": "25mg, 50mg, 100mg", "related_names": {}}
-{"rxcui": "198028", "name": "Atenolol", "tty": "BN", "language": "EN", "category": "Beta Blocker", "dosage": "25mg, 50mg, 100mg", "related_names": {}}
-{"rxcui": "104450", "name": "Propranolol", "tty": "BN", "language": "EN", "category": "Beta Blocker", "dosage": "10mg, 20mg, 40mg, 60mg", "related_names": {}}
-{"rxcui": "104242", "name": "Labetalol", "tty": "BN", "language": "EN", "category": "Beta Blocker", "dosage": "100mg, 200mg, 300mg", "related_names": {}}
-{"rxcui": "153467", "name": "Amlodipine", "tty": "BN", "language": "EN", "category": "CCB", "dosage": "2.5mg, 5mg, 10mg", "related_names": {}}
-{"rxcui": "104228", "name": "Diltiazem", "tty": "BN", "language": "EN", "category": "CCB", "dosage": "30mg, 60mg, 90mg, 120mg", "related_names": {}}
-{"rxcui": "104219", "name": "Verapamil", "tty": "BN", "language": "EN", "category": "CCB", "dosage": "40mg, 80mg, 120mg", "related_names": {}}
-{"rxcui": "5090", "name": "Hydrochlorothiazide", "tty": "BN", "language": "EN", "category": "Diuretic", "dosage": "12.5mg, 25mg, 50mg", "related_names": {}}
-{"rxcui": "104184", "name": "Furosemide", "tty": "BN", "language": "EN", "category": "Diuretic", "dosage": "20mg, 40mg, 80mg", "related_names": {}}
-{"rxcui": "104078", "name": "Spironolactone", "tty": "BN", "language": "EN", "category": "Diuretic", "dosage": "25mg, 50mg, 100mg", "related_names": {}}
-{"rxcui": "409199", "name": "Metformin", "tty": "BN", "language": "EN", "category": "Antidiabetic", "dosage": "500mg, 850mg, 1000mg", "related_names": {}}
-{"rxcui": "197528", "name": "Glipizide", "tty": "BN", "language": "EN", "category": "Antidiabetic", "dosage": "5mg, 10mg", "related_names": {}}
-{"rxcui": "104547", "name": "Glyburide", "tty": "BN", "language": "EN", "category": "Antidiabetic", "dosage": "1.25mg, 2.5mg, 5mg", "related_names": {}}
-{"rxcui": "203236", "name": "Pioglitazone", "tty": "BN", "language": "EN", "category": "Antidiabetic", "dosage": "15mg, 30mg, 45mg", "related_names": {}}
-{"rxcui": "203252", "name": "Rosiglitazone", "tty": "BN", "language": "EN", "category": "Antidiabetic", "dosage": "2mg, 4mg, 8mg", "related_names": {}}
-{"rxcui": "312961", "name": "Atorvastatin", "tty": "BN", "language": "EN", "category": "Statin", "dosage": "10mg, 20mg, 40mg, 80mg", "related_names": {}}
-{"rxcui": "104006", "name": "Simvastatin", "tty": "BN", "language": "EN", "category": "Statin", "dosage": "5mg, 10mg, 20mg, 40mg", "related_names": {}}
-{"rxcui": "104325", "name": "Pravastatin", "tty": "BN", "language": "EN", "category": "Statin", "dosage": "10mg, 20mg, 40mg, 80mg", "related_names": {}}
-{"rxcui": "104461", "name": "Rosuvastatin", "tty": "BN", "language": "EN", "category": "Statin", "dosage": "5mg, 10mg, 20mg, 40mg", "related_names": {}}
-{"rxcui": "104007", "name": "Lovastatin", "tty": "BN", "language": "EN", "category": "Statin", "dosage": "10mg, 20mg, 40mg", "related_names": {}}
-{"rxcui": "858519", "name": "Levothyroxine", "tty": "BN", "language": "EN", "category": "Thyroid", "dosage": "25mcg, 50mcg, 75mcg, 100mcg, 125mcg, 150mcg, 175mcg, 200mcg", "related_names": {}}
-{"rxcui": "258494", "name": "Amoxicillin", "tty": "BN", "language": "EN", "category": "Antibiotic", "dosage": "250mg, 500mg, 875mg", "related_names": {}}
-{"rxcui": "197903", "name": "Ampicillin", "tty": "BN", "language": "EN", "category": "Antibiotic", "dosage": "250mg, 500mg", "related_names": {}}
-{"rxcui": "104376", "name": "Amoxicillin-Clavulanic acid", "tty": "BN", "language": "EN", "category": "Antibiotic", "dosage": "250-125mg, 500-125mg, 875-125mg", "related_names": {}}
-{"rxcui": "203464", "name": "Azithromycin", "tty": "BN", "language": "EN", "category": "Antibiotic", "dosage": "250mg, 500mg", "related_names": {}}
-{"rxcui": "104903", "name": "Erythromycin", "tty": "BN", "language": "EN", "category": "Antibiotic", "dosage": "250mg, 500mg", "related_names": {}}
-{"rxcui": "203151", "name": "Ciprofloxacin", "tty": "BN", "language": "EN", "category": "Antibiotic", "dosage": "250mg, 500mg, 750mg", "related_names": {}}
-{"rxcui": "105010", "name": "Levofloxacin", "tty": "BN", "language": "EN", "category": "Antibiotic", "dosage": "250mg, 500mg, 750mg", "related_names": {}}
-{"rxcui": "205255", "name": "Doxycycline", "tty": "BN", "language": "EN", "category": "Antibiotic", "dosage": "50mg, 100mg", "related_names": {}}
-{"rxcui": "104922", "name": "Tetracycline", "tty": "BN", "language": "EN", "category": "Antibiotic", "dosage": "250mg, 500mg", "related_names": {}}
-{"rxcui": "7646", "name": "Omeprazole", "tty": "BN", "language": "EN", "category": "PPI", "dosage": "20mg, 40mg", "related_names": {}}
-{"rxcui": "104360", "name": "Pantoprazole", "tty": "BN", "language": "EN", "category": "PPI", "dosage": "20mg, 40mg", "related_names": {}}
-{"rxcui": "104361", "name": "Lansoprazole", "tty": "BN", "language": "EN", "category": "PPI", "dosage": "15mg, 30mg", "related_names": {}}
-{"rxcui": "103813", "name": "Rabeprazole", "tty": "BN", "language": "EN", "category": "PPI", "dosage": "20mg", "related_names": {}}
-{"rxcui": "2168", "name": "Ranitidine", "tty": "BN", "language": "EN", "category": "H2 Blocker", "dosage": "75mg, 150mg, 300mg", "related_names": {}}
-{"rxcui": "7676", "name": "Famotidine", "tty": "BN", "language": "EN", "category": "H2 Blocker", "dosage": "20mg, 40mg", "related_names": {}}
-{"rxcui": "36437", "name": "Sertraline", "tty": "BN", "language": "EN", "category": "SSRI", "dosage": "25mg, 50mg, 100mg", "related_names": {}}
-{"rxcui": "104920", "name": "Fluoxetine", "tty": "BN", "language": "EN", "category": "SSRI", "dosage": "10mg, 20mg, 40mg", "related_names": {}}
-{"rxcui": "104901", "name": "Paroxetine", "tty": "BN", "language": "EN", "category": "SSRI", "dosage": "10mg, 20mg, 30mg, 40mg", "related_names": {}}
-{"rxcui": "106114", "name": "Citalopram", "tty": "BN", "language": "EN", "category": "SSRI", "dosage": "10mg, 20mg, 40mg", "related_names": {}}
-{"rxcui": "106115", "name": "Escitalopram", "tty": "BN", "language": "EN", "category": "SSRI", "dosage": "5mg, 10mg, 20mg", "related_names": {}}
-{"rxcui": "104906", "name": "Venlafaxine", "tty": "BN", "language": "EN", "category": "SNRI", "dosage": "25mg, 37.5mg, 50mg, 75mg", "related_names": {}}
-{"rxcui": "104883", "name": "Duloxetine", "tty": "BN", "language": "EN", "category": "SNRI", "dosage": "20mg, 30mg, 40mg, 60mg", "related_names": {}}
-{"rxcui": "104337", "name": "Lorazepam", "tty": "BN", "language": "EN", "category": "Benzodiazepine", "dosage": "0.5mg, 1mg, 2mg", "related_names": {}}
-{"rxcui": "103312", "name": "Alprazolam", "tty": "BN", "language": "EN", "category": "Benzodiazepine", "dosage": "0.25mg, 0.5mg, 1mg, 2mg", "related_names": {}}
-{"rxcui": "104309", "name": "Diazepam", "tty": "BN", "language": "EN", "category": "Benzodiazepine", "dosage": "2mg, 5mg, 10mg", "related_names": {}}
-{"rxcui": "103781", "name": "Clonazepam", "tty": "BN", "language": "EN", "category": "Benzodiazepine", "dosage": "0.25mg, 0.5mg, 1mg, 2mg", "related_names": {}}
-{"rxcui": "104894", "name": "Haloperidol", "tty": "BN", "language": "EN", "category": "Antipsychotic", "dosage": "0.5mg, 1mg, 2mg, 5mg, 10mg", "related_names": {}}
-{"rxcui": "104905", "name": "Chlorpromazine", "tty": "BN", "language": "EN", "category": "Antipsychotic", "dosage": "10mg, 25mg, 50mg, 100mg", "related_names": {}}
-{"rxcui": "107048", "name": "Risperidone", "tty": "BN", "language": "EN", "category": "Antipsychotic", "dosage": "0.25mg, 0.5mg, 1mg, 2mg, 3mg, 4mg", "related_names": {}}
-{"rxcui": "108422", "name": "Quetiapine", "tty": "BN", "language": "EN", "category": "Antipsychotic", "dosage": "25mg, 50mg, 100mg, 200mg, 300mg, 400mg", "related_names": {}}
-{"rxcui": "204108", "name": "Warfarin", "tty": "BN", "language": "EN", "category": "Anticoagulant", "dosage": "1mg, 2mg, 2.5mg, 3mg, 4mg, 5mg, 6mg, 7.5mg, 10mg", "related_names": {}}
-{"rxcui": "105055", "name": "Enoxaparin", "tty": "BN", "language": "EN", "category": "Anticoagulant", "dosage": "30mg, 40mg, 60mg, 80mg, 100mg, 120mg, 150mg", "related_names": {}}
-{"rxcui": "5224", "name": "Heparin", "tty": "BN", "language": "EN", "category": "Anticoagulant", "dosage": "1000u/ml, 5000u/ml, 10000u/ml", "related_names": {}}
-{"rxcui": "209138", "name": "Apixaban", "tty": "BN", "language": "EN", "category": "Anticoagulant", "dosage": "2.5mg, 5mg", "related_names": {}}
-{"rxcui": "6993", "name": "Methotrexate", "tty": "BN", "language": "EN", "category": "Immunosuppressant", "dosage": "2.5mg, 5mg, 7.5mg, 10mg, 15mg, 25mg", "related_names": {}}
-{"rxcui": "8674", "name": "Prednisone", "tty": "BN", "language": "EN", "category": "Corticosteroid", "dosage": "2.5mg, 5mg, 10mg, 20mg, 50mg", "related_names": {}}
-{"rxcui": "4206", "name": "Dexamethasone", "tty": "BN", "language": "EN", "category": "Corticosteroid", "dosage": "0.25mg, 0.5mg, 0.75mg, 1mg, 1.5mg, 2mg, 4mg, 6mg", "related_names": {}}
-{"rxcui": "198838", "name": "Prednisolone", "tty": "BN", "language": "EN", "category": "Corticosteroid", "dosage": "1mg, 2.5mg, 5mg, 10mg, 20mg", "related_names": {}}
-{"rxcui": "16168", "name": "Albuterol", "tty": "BN", "language": "EN", "category": "Bronchodilator", "dosage": "2mg, 4mg, 8mg", "related_names": {}}
-{"rxcui": "4471", "name": "Salbutamol", "tty": "BN", "language": "EN", "category": "Bronchodilator", "dosage": "100mcg", "related_names": {}}
-{"rxcui": "103741", "name": "Ipratropium", "tty": "BN", "language": "EN", "category": "Bronchodilator", "dosage": "17mcg, 18mcg", "related_names": {}}
-{"rxcui": "103696", "name": "Fluticasone", "tty": "BN", "language": "EN", "category": "Respiratory", "dosage": "44mcg, 110mcg, 220mcg", "related_names": {}}
-{"rxcui": "7594", "name": "Budesonide", "tty": "BN", "language": "EN", "category": "Respiratory", "dosage": "0.25mg, 0.5mg, 1mg", "related_names": {}}
-{"rxcui": "3443", "name": "Dopamine", "tty": "BN", "language": "EN", "category": "Vasopressor", "dosage": "40mg, 80mg, 160mg", "related_names": {}}
-{"rxcui": "3498", "name": "Epinephrine", "tty": "BN", "language": "EN", "category": "Vasopressor", "dosage": "0.1mg, 0.3mg, 0.5mg", "related_names": {}}
-{"rxcui": "19835", "name": "Norepinephrine", "tty": "BN", "language": "EN", "category": "Vasopressor", "dosage": "1mg/ml", "related_names": {}}
-{"rxcui": "104592", "name": "Vitamin A", "tty": "BN", "language": "EN", "category": "Vitamin", "dosage": "400iu, 5000iu, 10000iu", "related_names": {}}
-{"rxcui": "104590", "name": "Vitamin D", "tty": "BN", "language": "EN", "category": "Vitamin", "dosage": "400iu, 1000iu, 2000iu", "related_names": {}}
-{"rxcui": "104589", "name": "Vitamin E", "tty": "BN", "language": "EN", "category": "Vitamin", "dosage": "200iu, 400iu, 800iu", "related_names": {}}
-{"rxcui": "104587", "name": "Vitamin B1 (Thiamine)", "tty": "BN", "language": "EN", "category": "Vitamin", "dosage": "25mg, 50mg, 100mg", "related_names": {}}
-{"rxcui": "104588", "name": "Vitamin B12 (Cyanocobalamin)", "tty": "BN", "language": "EN", "category": "Vitamin", "dosage": "500mcg, 1000mcg", "related_names": {}}
-{"rxcui": "104586", "name": "Vitamin C (Ascorbic Acid)", "tty": "BN", "language": "EN", "category": "Vitamin", "dosage": "250mg, 500mg, 1000mg", "related_names": {}}
-{"rxcui": "104463", "name": "Calcium", "tty": "BN", "language": "EN", "category": "Mineral", "dosage": "500mg, 600mg, 1000mg, 1200mg", "related_names": {}}
-{"rxcui": "104462", "name": "Iron", "tty": "BN", "language": "EN", "category": "Mineral", "dosage": "325mg, 325mg with Vitamin C", "related_names": {}}
-{"rxcui": "104464", "name": "Magnesium", "tty": "BN", "language": "EN", "category": "Mineral", "dosage": "200mg, 300mg, 400mg, 500mg", "related_names": {}}
-{"rxcui": "104465", "name": "Potassium", "tty": "BN", "language": "EN", "category": "Mineral", "dosage": "20mEq, 25mEq, 40mEq", "related_names": {}}
-{"rxcui": "104466", "name": "Albendazole", "tty": "BN", "language": "EN", "category": "Anthelmintic", "dosage": "200mg, 400mg", "related_names": {}}
-{"rxcui": "104214", "name": "Acetaminophen-Codeine", "tty": "BN", "language": "EN", "category": "Analgesic", "dosage": "300-15mg, 300-30mg, 300-60mg", "related_names": {}}
-{"rxcui": "106170", "name": "Ibuprofen-Codeine", "tty": "BN", "language": "EN", "category": "Analgesic", "dosage": "200-12.8mg", "related_names": {}}
-{"rxcui": "104197", "name": "Aspirin-Codeine", "tty": "BN", "language": "EN", "category": "Analgesic", "dosage": "325-15mg, 325-30mg, 325-60mg", "related_names": {}}
-{"rxcui": "104467", "name": "Mebendazole", "tty": "BN", "language": "EN", "category": "Anthelmintic", "dosage": "100mg, 500mg", "related_names": {}}
-{"rxcui": "104468", "name": "Pyrantel", "tty": "BN", "language": "EN", "category": "Anthelmintic", "dosage": "250mg", "related_names": {}}
-{"rxcui": "104469", "name": "Diphenhydramine", "tty": "BN", "language": "EN", "category": "Antihistamine", "dosage": "25mg, 50mg", "related_names": {}}
-{"rxcui": "104470", "name": "Cetirizine", "tty": "BN", "language": "EN", "category": "Antihistamine", "dosage": "5mg, 10mg", "related_names": {}}
-{"rxcui": "104471", "name": "Loratadine", "tty": "BN", "language": "EN", "category": "Antihistamine", "dosage": "10mg", "related_names": {}}
-{"rxcui": "104472", "name": "Fexofenadine", "tty": "BN", "language": "EN", "category": "Antihistamine", "dosage": "180mg", "related_names": {}}
-{"rxcui": "104473", "name": "Fluconazole", "tty": "BN", "language": "EN", "category": "Antifungal", "dosage": "50mg, 100mg, 150mg, 200mg", "related_names": {}}
-{"rxcui": "104474", "name": "Itraconazole", "tty": "BN", "language": "EN", "category": "Antifungal", "dosage": "100mg", "related_names": {}}
-{"rxcui": "104475", "name": "Ketoconazole", "tty": "BN", "language": "EN", "category": "Antifungal", "dosage": "200mg", "related_names": {}}
-{"rxcui": "104476", "name": "Terbinafine", "tty": "BN", "language": "EN", "category": "Antifungal", "dosage": "250mg", "related_names": {}}
-{"rxcui": "104477", "name": "Acyclovir", "tty": "BN", "language": "EN", "category": "Antiviral", "dosage": "200mg, 400mg, 800mg", "related_names": {}}
-{"rxcui": "104478", "name": "Valacyclovir", "tty": "BN", "language": "EN", "category": "Antiviral", "dosage": "500mg, 1000mg", "related_names": {}}
-{"rxcui": "104479", "name": "Famciclovir", "tty": "BN", "language": "EN", "category": "Antiviral", "dosage": "125mg, 250mg, 500mg", "related_names": {}}
-{"rxcui": "104480", "name": "Oseltamivir", "tty": "BN", "language": "EN", "category": "Antiviral", "dosage": "30mg, 45mg, 75mg", "related_names": {}}
-{"rxcui": "104481", "name": "Chloroquine", "tty": "BN", "language": "EN", "category": "Antimalarial", "dosage": "250mg, 500mg", "related_names": {}}
-{"rxcui": "104482", "name": "Quinine", "tty": "BN", "language": "EN", "category": "Antimalarial", "dosage": "200mg, 325mg", "related_names": {}}
-{"rxcui": "104483", "name": "Mefloquine", "tty": "BN", "language": "EN", "category": "Antimalarial", "dosage": "250mg", "related_names": {}}
-{"rxcui": "104484", "name": "Ketoprofen", "tty": "BN", "language": "EN", "category": "NSAID", "dosage": "50mg, 75mg", "related_names": {}}
-{"rxcui": "104485", "name": "Piroxicam", "tty": "BN", "language": "EN", "category": "NSAID", "dosage": "10mg, 20mg", "related_names": {}}
-{"rxcui": "104486", "name": "Sulindac", "tty": "BN", "language": "EN", "category": "NSAID", "dosage": "150mg, 200mg", "related_names": {}}
-{"rxcui": "104487", "name": "Baclofen", "tty": "BN", "language": "EN", "category": "Muscle Relaxant", "dosage": "5mg, 10mg, 20mg", "related_names": {}}
-{"rxcui": "104488", "name": "Cyclobenzaprine", "tty": "BN", "language": "EN", "category": "Muscle Relaxant", "dosage": "5mg, 10mg", "related_names": {}}
-{"rxcui": "104489", "name": "Methocarbamol", "tty": "BN", "language": "EN", "category": "Muscle Relaxant", "dosage": "500mg, 750mg", "related_names": {}}
-{"rxcui": "104490", "name": "Tizanidine", "tty": "BN", "language": "EN", "category": "Muscle Relaxant", "dosage": "2mg, 4mg, 6mg", "related_names": {}}
-{"rxcui": "104491", "name": "Alendronite", "tty": "BN", "language": "EN", "category": "Bone", "dosage": "5mg, 10mg, 35mg, 70mg", "related_names": {}}
-{"rxcui": "104492", "name": "Risedronate", "tty": "BN", "language": "EN", "category": "Bone", "dosage": "5mg, 30mg, 35mg", "related_names": {}}
-{"rxcui": "104493", "name": "Ibandronate", "tty": "BN", "language": "EN", "category": "Bone", "dosage": "2.5mg, 150mg", "related_names": {}}
-{"rxcui": "104494", "name": "Sumatriptan", "tty": "BN", "language": "EN", "category": "Migraine", "dosage": "25mg, 50mg, 100mg", "related_names": {}}
-{"rxcui": "104495", "name": "Rizatriptan", "tty": "BN", "language": "EN", "category": "Migraine", "dosage": "5mg, 10mg", "related_names": {}}
-{"rxcui": "104496", "name": "Zolmitriptan", "tty": "BN", "language": "EN", "category": "Migraine", "dosage": "2.5mg, 5mg", "related_names": {}}
-{"rxcui": "104497", "name": "Sildenafil", "tty": "BN", "language": "EN", "category": "ED", "dosage": "25mg, 50mg, 100mg", "related_names": {}}
-{"rxcui": "104498", "name": "Tadalafil", "tty": "BN", "language": "EN", "category": "ED", "dosage": "5mg, 10mg, 20mg", "related_names": {}}
-{"rxcui": "104499", "name": "Vardenafil", "tty": "BN", "language": "EN", "category": "ED", "dosage": "5mg, 10mg, 20mg", "related_names": {}}
-{"rxcui": "104500", "name": "Oxybutynin", "tty": "BN", "language": "EN", "category": "Urinary", "dosage": "5mg, 10mg, 15mg", "related_names": {}}
-{"rxcui": "104501", "name": "Tolterodine", "tty": "BN", "language": "EN", "category": "Urinary", "dosage": "1mg, 2mg, 4mg", "related_names": {}}
-{"rxcui": "104502", "name": "Finasteride", "tty": "BN", "language": "EN", "category": "Urinary", "dosage": "1mg, 5mg", "related_names": {}}
-{"rxcui": "104503", "name": "Tamsulosin", "tty": "BN", "language": "EN", "category": "Urinary", "dosage": "0.4mg", "related_names": {}}
-{"rxcui": "104504", "name": "Zolpidem", "tty": "BN", "language": "EN", "category": "Sleep", "dosage": "5mg, 10mg", "related_names": {}}
-{"rxcui": "104505", "name": "Zaleplon", "tty": "BN", "language": "EN", "category": "Sleep", "dosage": "5mg, 10mg", "related_names": {}}
-{"rxcui": "104506", "name": "Eszopiclone", "tty": "BN", "language": "EN", "category": "Sleep", "dosage": "1mg, 2mg, 3mg", "related_names": {}}
-{"rxcui": "104507", "name": "Melatonin", "tty": "BN", "language": "EN", "category": "Sleep", "dosage": "1mg, 2mg, 3mg, 5mg", "related_names": {}}
-{"rxcui": "104508", "name": "Atropine", "tty": "BN", "language": "EN", "category": "Anticholinergic", "dosage": "0.4mg, 0.5mg, 1mg", "related_names": {}}
-{"rxcui": "104509", "name": "Scopolamine", "tty": "BN", "language": "EN", "category": "Anticholinergic", "dosage": "0.3mg, 0.6mg", "related_names": {}}
-{"rxcui": "104510", "name": "Zoledronic acid", "tty": "BN", "language": "EN", "category": "Bone", "dosage": "4mg, 5mg", "related_names": {}}
-{"rxcui": "104511", "name": "Cyclophosphamide", "tty": "BN", "language": "EN", "category": "Chemotherapy", "dosage": "25mg, 50mg", "related_names": {}}
-{"rxcui": "104512", "name": "Methotrexate", "tty": "BN", "language": "EN", "category": "Chemotherapy", "dosage": "2.5mg, 5mg", "related_names": {}}
-{"rxcui": "104513", "name": "Doxorubicin", "tty": "BN", "language": "EN", "category": "Chemotherapy", "dosage": "10mg, 20mg, 50mg", "related_names": {}}
-{"rxcui": "104514", "name": "Cisplatin", "tty": "BN", "language": "EN", "category": "Chemotherapy", "dosage": "0.5mg/ml, 1mg/ml", "related_names": {}}
-{"rxcui": "104515", "name": "Infliximab", "tty": "BN", "language": "EN", "category": "Biologic", "dosage": "100mg", "related_names": {}}
-{"rxcui": "104516", "name": "Adalimumab", "tty": "BN", "language": "EN", "category": "Biologic", "dosage": "40mg", "related_names": {}}
-{"rxcui": "104517", "name": "Etanercept", "tty": "BN", "language": "EN", "category": "Biologic", "dosage": "25mg, 50mg", "related_names": {}}
-{"rxcui": "104518", "name": "Rituximab", "tty": "BN", "language": "EN", "category": "Biologic", "dosage": "100mg, 500mg", "related_names": {}}
-{"rxcui": "104519", "name": "Theophylline", "tty": "BN", "language": "EN", "category": "Respiratory", "dosage": "100mg, 125mg, 200mg, 250mg", "related_names": {}}
-{"rxcui": "104520", "name": "Montelukast", "tty": "BN", "language": "EN", "category": "Respiratory", "dosage": "4mg, 5mg, 10mg", "related_names": {}}
-{"rxcui": "104521", "name": "Zafirlukast", "tty": "BN", "language": "EN", "category": "Respiratory", "dosage": "10mg, 20mg", "related_names": {}}
-{"rxcui": "104522", "name": "Tretinoin", "tty": "BN", "language": "EN", "category": "Dermatologic", "dosage": "0.025%, 0.05%, 0.1%", "related_names": {}}
-{"rxcui": "104523", "name": "Benzoyl peroxide", "tty": "BN", "language": "EN", "category": "Dermatologic", "dosage": "2.5%, 5%, 10%", "related_names": {}}
-{"rxcui": "104524", "name": "Adapalene", "tty": "BN", "language": "EN", "category": "Dermatologic", "dosage": "0.1%", "related_names": {}}
-{"rxcui": "104525", "name": "Saxagliptin", "tty": "BN", "language": "EN", "category": "Antidiabetic", "dosage": "2.5mg, 5mg", "related_names": {}}
-{"rxcui": "104526", "name": "Sitagliptin", "tty": "BN", "language": "EN", "category": "Antidiabetic", "dosage": "25mg, 50mg, 100mg", "related_names": {}}
-{"rxcui": "104527", "name": "Exenatide", "tty": "BN", "language": "EN", "category": "Antidiabetic", "dosage": "5mcg, 10mcg", "related_names": {}}
-{"rxcui": "104528", "name": "Liraglutide", "tty": "BN", "language": "EN", "category": "Antidiabetic", "dosage": "0.6mg, 1.2mg, 1.8mg", "related_names": {}}
-{"rxcui": "104529", "name": "Ivabradine", "tty": "BN", "language": "EN", "category": "Cardiovascular", "dosage": "5mg, 7.5mg", "related_names": {}}
-{"rxcui": "104530", "name": "Ranolazine", "tty": "BN", "language": "EN", "category": "Cardiovascular", "dosage": "375mg, 500mg, 750mg", "related_names": {}}
-{"rxcui": "104531", "name": "Nitroglycerin", "tty": "BN", "language": "EN", "category": "Cardiovascular", "dosage": "0.3mg, 0.4mg, 0.6mg", "related_names": {}}
+{"rxcui": "104229", "name": "Metoprolol", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "25mg, 50mg, 100mg, 200mg"}
+{"rxcui": "100000", "name": "Metoprolol ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "25mg, 50mg, 100mg, 200mg"}
+{"rxcui": "100001", "name": "Metoprolol XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "25mg, 50mg, 100mg, 200mg"}
+{"rxcui": "198028", "name": "Atenolol", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "25mg, 50mg, 100mg"}
+{"rxcui": "100002", "name": "Atenolol ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "25mg, 50mg, 100mg"}
+{"rxcui": "100003", "name": "Atenolol XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "25mg, 50mg, 100mg"}
+{"rxcui": "104450", "name": "Propranolol", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100004", "name": "Propranolol ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100005", "name": "Propranolol XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104242", "name": "Labetalol", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100006", "name": "Labetalol ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100007", "name": "Labetalol XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "153467", "name": "Amlodipine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "2.5mg, 5mg, 10mg"}
+{"rxcui": "100008", "name": "Amlodipine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "2.5mg, 5mg, 10mg"}
+{"rxcui": "100009", "name": "Amlodipine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "2.5mg, 5mg, 10mg"}
+{"rxcui": "104228", "name": "Diltiazem", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100010", "name": "Diltiazem ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100011", "name": "Diltiazem XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104219", "name": "Verapamil", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100012", "name": "Verapamil ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100013", "name": "Verapamil XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104226", "name": "Nifedipine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100014", "name": "Nifedipine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100015", "name": "Nifedipine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "316062", "name": "Lisinopril", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "5mg, 10mg, 20mg, 40mg"}
+{"rxcui": "100016", "name": "Lisinopril ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "5mg, 10mg, 20mg, 40mg"}
+{"rxcui": "100017", "name": "Lisinopril XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "5mg, 10mg, 20mg, 40mg"}
+{"rxcui": "197884", "name": "Enalapril", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100018", "name": "Enalapril ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100019", "name": "Enalapril XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104375", "name": "Ramipril", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100020", "name": "Ramipril ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100021", "name": "Ramipril XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "199370", "name": "Captopril", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100022", "name": "Captopril ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100023", "name": "Captopril XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "5090", "name": "Hydrochlorothiazide", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100024", "name": "Hydrochlorothiazide ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100025", "name": "Hydrochlorothiazide XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104184", "name": "Furosemide", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100026", "name": "Furosemide ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100027", "name": "Furosemide XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104078", "name": "Spironolactone", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100028", "name": "Spironolactone ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100029", "name": "Spironolactone XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104189", "name": "Bumetanide", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100030", "name": "Bumetanide ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100031", "name": "Bumetanide XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "312961", "name": "Atorvastatin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "10mg, 20mg, 40mg, 80mg"}
+{"rxcui": "100032", "name": "Atorvastatin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "10mg, 20mg, 40mg, 80mg"}
+{"rxcui": "100033", "name": "Atorvastatin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "10mg, 20mg, 40mg, 80mg"}
+{"rxcui": "104006", "name": "Simvastatin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100034", "name": "Simvastatin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100035", "name": "Simvastatin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104325", "name": "Pravastatin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100036", "name": "Pravastatin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100037", "name": "Pravastatin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104461", "name": "Rosuvastatin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100038", "name": "Rosuvastatin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100039", "name": "Rosuvastatin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "409199", "name": "Metformin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "500mg, 850mg, 1000mg"}
+{"rxcui": "100040", "name": "Metformin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "500mg, 850mg, 1000mg"}
+{"rxcui": "100041", "name": "Metformin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "500mg, 850mg, 1000mg"}
+{"rxcui": "197528", "name": "Glipizide", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100042", "name": "Glipizide ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100043", "name": "Glipizide XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104547", "name": "Glyburide", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100044", "name": "Glyburide ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100045", "name": "Glyburide XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "203236", "name": "Pioglitazone", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100046", "name": "Pioglitazone ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100047", "name": "Pioglitazone XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "203252", "name": "Rosiglitazone", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100048", "name": "Rosiglitazone ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100049", "name": "Rosiglitazone XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104525", "name": "Saxagliptin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100050", "name": "Saxagliptin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100051", "name": "Saxagliptin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104526", "name": "Sitagliptin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100052", "name": "Sitagliptin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100053", "name": "Sitagliptin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104527", "name": "Exenatide", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100054", "name": "Exenatide ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100055", "name": "Exenatide XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "207106", "name": "Aspirin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "325mg, 500mg, 650mg"}
+{"rxcui": "100056", "name": "Aspirin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "325mg, 500mg, 650mg"}
+{"rxcui": "100057", "name": "Aspirin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "325mg, 500mg, 650mg"}
+{"rxcui": "203456", "name": "Ibuprofen", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "200mg, 400mg, 600mg, 800mg"}
+{"rxcui": "100058", "name": "Ibuprofen ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "200mg, 400mg, 600mg, 800mg"}
+{"rxcui": "100059", "name": "Ibuprofen XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "200mg, 400mg, 600mg, 800mg"}
+{"rxcui": "209459", "name": "Acetaminophen", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100060", "name": "Acetaminophen ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100061", "name": "Acetaminophen XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "197605", "name": "Naproxen", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100062", "name": "Naproxen ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100063", "name": "Naproxen XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "153010", "name": "Diclofenac", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100064", "name": "Diclofenac ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100065", "name": "Diclofenac XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "198022", "name": "Meloxicam", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100066", "name": "Meloxicam ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100067", "name": "Meloxicam XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "103919", "name": "Indomethacin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100068", "name": "Indomethacin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100069", "name": "Indomethacin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "36437", "name": "Sertraline", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "25mg, 50mg, 100mg"}
+{"rxcui": "100070", "name": "Sertraline ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "25mg, 50mg, 100mg"}
+{"rxcui": "100071", "name": "Sertraline XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "25mg, 50mg, 100mg"}
+{"rxcui": "104920", "name": "Fluoxetine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100072", "name": "Fluoxetine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100073", "name": "Fluoxetine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104901", "name": "Paroxetine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100074", "name": "Paroxetine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100075", "name": "Paroxetine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "106114", "name": "Citalopram", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100076", "name": "Citalopram ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100077", "name": "Citalopram XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "106115", "name": "Escitalopram", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100078", "name": "Escitalopram ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100079", "name": "Escitalopram XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104906", "name": "Venlafaxine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100080", "name": "Venlafaxine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100081", "name": "Venlafaxine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104883", "name": "Duloxetine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100082", "name": "Duloxetine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100083", "name": "Duloxetine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104337", "name": "Lorazepam", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100084", "name": "Lorazepam ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100085", "name": "Lorazepam XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "103312", "name": "Alprazolam", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100086", "name": "Alprazolam ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100087", "name": "Alprazolam XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104309", "name": "Diazepam", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100088", "name": "Diazepam ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100089", "name": "Diazepam XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "103781", "name": "Clonazepam", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100090", "name": "Clonazepam ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100091", "name": "Clonazepam XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "258494", "name": "Amoxicillin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "250mg, 500mg, 875mg"}
+{"rxcui": "100092", "name": "Amoxicillin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "250mg, 500mg, 875mg"}
+{"rxcui": "100093", "name": "Amoxicillin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": "250mg, 500mg, 875mg"}
+{"rxcui": "197903", "name": "Ampicillin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100094", "name": "Ampicillin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100095", "name": "Ampicillin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "203464", "name": "Azithromycin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100096", "name": "Azithromycin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100097", "name": "Azithromycin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104903", "name": "Erythromycin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100098", "name": "Erythromycin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100099", "name": "Erythromycin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "203151", "name": "Ciprofloxacin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100100", "name": "Ciprofloxacin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100101", "name": "Ciprofloxacin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "105010", "name": "Levofloxacin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100102", "name": "Levofloxacin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100103", "name": "Levofloxacin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "205255", "name": "Doxycycline", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100104", "name": "Doxycycline ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100105", "name": "Doxycycline XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104922", "name": "Tetracycline", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100106", "name": "Tetracycline ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100107", "name": "Tetracycline XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "7646", "name": "Omeprazole", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100108", "name": "Omeprazole ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100109", "name": "Omeprazole XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104360", "name": "Pantoprazole", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100110", "name": "Pantoprazole ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100111", "name": "Pantoprazole XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104361", "name": "Lansoprazole", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100112", "name": "Lansoprazole ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100113", "name": "Lansoprazole XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "103813", "name": "Rabeprazole", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100114", "name": "Rabeprazole ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100115", "name": "Rabeprazole XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "2168", "name": "Ranitidine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100116", "name": "Ranitidine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100117", "name": "Ranitidine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "7676", "name": "Famotidine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100118", "name": "Famotidine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100119", "name": "Famotidine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "16168", "name": "Albuterol", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100120", "name": "Albuterol ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100121", "name": "Albuterol XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "4471", "name": "Salbutamol", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100122", "name": "Salbutamol ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100123", "name": "Salbutamol XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "103741", "name": "Ipratropium", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100124", "name": "Ipratropium ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100125", "name": "Ipratropium XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "103696", "name": "Fluticasone", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100126", "name": "Fluticasone ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100127", "name": "Fluticasone XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "7594", "name": "Budesonide", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100128", "name": "Budesonide ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100129", "name": "Budesonide XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "858519", "name": "Levothyroxine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100130", "name": "Levothyroxine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100131", "name": "Levothyroxine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "103902", "name": "Liothyronine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100132", "name": "Liothyronine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100133", "name": "Liothyronine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "204108", "name": "Warfarin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100134", "name": "Warfarin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100135", "name": "Warfarin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "105055", "name": "Enoxaparin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100136", "name": "Enoxaparin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100137", "name": "Enoxaparin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "5224", "name": "Heparin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100138", "name": "Heparin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100139", "name": "Heparin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "209138", "name": "Apixaban", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100140", "name": "Apixaban ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100141", "name": "Apixaban XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "8674", "name": "Prednisone", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100142", "name": "Prednisone ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100143", "name": "Prednisone XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "4206", "name": "Dexamethasone", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100144", "name": "Dexamethasone ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100145", "name": "Dexamethasone XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "198838", "name": "Prednisolone", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100146", "name": "Prednisolone ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100147", "name": "Prednisolone XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "3443", "name": "Dopamine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100148", "name": "Dopamine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100149", "name": "Dopamine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "3498", "name": "Epinephrine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100150", "name": "Epinephrine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100151", "name": "Epinephrine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "19835", "name": "Norepinephrine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100152", "name": "Norepinephrine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100153", "name": "Norepinephrine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104592", "name": "Vitamin A", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100154", "name": "Vitamin A ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100155", "name": "Vitamin A XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104590", "name": "Vitamin D", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100156", "name": "Vitamin D ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100157", "name": "Vitamin D XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104589", "name": "Vitamin E", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100158", "name": "Vitamin E ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100159", "name": "Vitamin E XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104587", "name": "Vitamin B1", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100160", "name": "Vitamin B1 ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100161", "name": "Vitamin B1 XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104588", "name": "Vitamin B12", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100162", "name": "Vitamin B12 ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100163", "name": "Vitamin B12 XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104586", "name": "Vitamin C", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100164", "name": "Vitamin C ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100165", "name": "Vitamin C XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104463", "name": "Calcium", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100166", "name": "Calcium ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100167", "name": "Calcium XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104462", "name": "Iron", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100168", "name": "Iron ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100169", "name": "Iron XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104464", "name": "Magnesium", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100170", "name": "Magnesium ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100171", "name": "Magnesium XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104465", "name": "Potassium", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100172", "name": "Potassium ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100173", "name": "Potassium XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104466", "name": "Zinc", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100174", "name": "Zinc ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100175", "name": "Zinc XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104468", "name": "Quinapril", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100176", "name": "Quinapril ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100177", "name": "Quinapril XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104469", "name": "Bisoprolol", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100178", "name": "Bisoprolol ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100179", "name": "Bisoprolol XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104467", "name": "Bisoprolol", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100180", "name": "Bisoprolol ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100181", "name": "Bisoprolol XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104470", "name": "Moexipril", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100182", "name": "Moexipril ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100183", "name": "Moexipril XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104471", "name": "Nebivolol", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100184", "name": "Nebivolol ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100185", "name": "Nebivolol XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104472", "name": "Fosinopril", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100186", "name": "Fosinopril ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100187", "name": "Fosinopril XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104473", "name": "Fluconazole", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100188", "name": "Fluconazole ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100189", "name": "Fluconazole XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104474", "name": "Itraconazole", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100190", "name": "Itraconazole ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100191", "name": "Itraconazole XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104475", "name": "Ketoconazole", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100192", "name": "Ketoconazole ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100193", "name": "Ketoconazole XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104476", "name": "Terbinafine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100194", "name": "Terbinafine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100195", "name": "Terbinafine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104477", "name": "Acyclovir", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100196", "name": "Acyclovir ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100197", "name": "Acyclovir XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104478", "name": "Valacyclovir", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100198", "name": "Valacyclovir ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100199", "name": "Valacyclovir XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104479", "name": "Famciclovir", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100200", "name": "Famciclovir ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100201", "name": "Famciclovir XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104480", "name": "Oseltamivir", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100202", "name": "Oseltamivir ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100203", "name": "Oseltamivir XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104481", "name": "Chloroquine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100204", "name": "Chloroquine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100205", "name": "Chloroquine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104482", "name": "Quinine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100206", "name": "Quinine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100207", "name": "Quinine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104483", "name": "Mefloquine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100208", "name": "Mefloquine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100209", "name": "Mefloquine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104484", "name": "Ketoprofen", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100210", "name": "Ketoprofen ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100211", "name": "Ketoprofen XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104485", "name": "Piroxicam", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100212", "name": "Piroxicam ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100213", "name": "Piroxicam XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104486", "name": "Sulindac", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100214", "name": "Sulindac ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100215", "name": "Sulindac XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104487", "name": "Baclofen", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100216", "name": "Baclofen ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100217", "name": "Baclofen XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104488", "name": "Cyclobenzaprine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100218", "name": "Cyclobenzaprine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100219", "name": "Cyclobenzaprine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104489", "name": "Methocarbamol", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100220", "name": "Methocarbamol ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100221", "name": "Methocarbamol XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104490", "name": "Tizanidine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100222", "name": "Tizanidine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100223", "name": "Tizanidine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104491", "name": "Alendronate", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100224", "name": "Alendronate ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100225", "name": "Alendronate XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104492", "name": "Risedronate", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100226", "name": "Risedronate ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100227", "name": "Risedronate XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104493", "name": "Ibandronate", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100228", "name": "Ibandronate ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100229", "name": "Ibandronate XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104494", "name": "Sumatriptan", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100230", "name": "Sumatriptan ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100231", "name": "Sumatriptan XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104495", "name": "Rizatriptan", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100232", "name": "Rizatriptan ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100233", "name": "Rizatriptan XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104496", "name": "Zolmitriptan", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100234", "name": "Zolmitriptan ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100235", "name": "Zolmitriptan XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104497", "name": "Sildenafil", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100236", "name": "Sildenafil ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100237", "name": "Sildenafil XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104498", "name": "Tadalafil", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100238", "name": "Tadalafil ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100239", "name": "Tadalafil XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104499", "name": "Vardenafil", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100240", "name": "Vardenafil ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100241", "name": "Vardenafil XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104500", "name": "Oxybutynin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100242", "name": "Oxybutynin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100243", "name": "Oxybutynin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104501", "name": "Tolterodine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100244", "name": "Tolterodine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100245", "name": "Tolterodine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104502", "name": "Finasteride", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100246", "name": "Finasteride ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100247", "name": "Finasteride XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104503", "name": "Tamsulosin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100248", "name": "Tamsulosin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100249", "name": "Tamsulosin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104504", "name": "Zolpidem", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100250", "name": "Zolpidem ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100251", "name": "Zolpidem XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104505", "name": "Zaleplon", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100252", "name": "Zaleplon ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100253", "name": "Zaleplon XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104506", "name": "Eszopiclone", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100254", "name": "Eszopiclone ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100255", "name": "Eszopiclone XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104507", "name": "Melatonin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100256", "name": "Melatonin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100257", "name": "Melatonin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104508", "name": "Atropine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100258", "name": "Atropine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100259", "name": "Atropine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104509", "name": "Scopolamine", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100260", "name": "Scopolamine ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100261", "name": "Scopolamine XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104510", "name": "Zoledronic acid", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100262", "name": "Zoledronic acid ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100263", "name": "Zoledronic acid XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104511", "name": "Cyclophosphamide", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100264", "name": "Cyclophosphamide ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100265", "name": "Cyclophosphamide XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104512", "name": "Methotrexate", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100266", "name": "Methotrexate ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100267", "name": "Methotrexate XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104513", "name": "Doxorubicin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100268", "name": "Doxorubicin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100269", "name": "Doxorubicin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104514", "name": "Cisplatin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100270", "name": "Cisplatin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100271", "name": "Cisplatin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104515", "name": "Infliximab", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100272", "name": "Infliximab ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100273", "name": "Infliximab XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104516", "name": "Adalimumab", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100274", "name": "Adalimumab ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100275", "name": "Adalimumab XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104517", "name": "Etanercept", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100276", "name": "Etanercept ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100277", "name": "Etanercept XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104518", "name": "Rituximab", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100278", "name": "Rituximab ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100279", "name": "Rituximab XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104519", "name": "Theophylline", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100280", "name": "Theophylline ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100281", "name": "Theophylline XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104520", "name": "Montelukast", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100282", "name": "Montelukast ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100283", "name": "Montelukast XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104521", "name": "Zafirlukast", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100284", "name": "Zafirlukast ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100285", "name": "Zafirlukast XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104522", "name": "Tretinoin", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100286", "name": "Tretinoin ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100287", "name": "Tretinoin XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104523", "name": "Benzoyl peroxide", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100288", "name": "Benzoyl peroxide ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100289", "name": "Benzoyl peroxide XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "104524", "name": "Adapalene", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100290", "name": "Adapalene ER", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
+{"rxcui": "100291", "name": "Adapalene XR", "tty": "BN", "language": "EN", "category": "Drug", "dosage": ""}
