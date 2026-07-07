@@ -1,0 +1,27 @@
+# Core dependencies
+requests>=2.28.0          # HTTP requests
+pandas>=1.5.0             # Data manipulation
+numpy>=1.23.0             # Numerical computing
+
+# NLP & ML
+transformers>=4.25.0      # Hugging Face models
+spacy>=3.4.0              # NLP pipeline
+nltk>=3.8                 # Natural language toolkit
+scikit-learn>=1.2.0       # Machine learning
+
+# Utilities
+pyyaml>=6.0               # YAML parsing
+python-dotenv>=0.20.0     # Environment variables
+tqdm>=4.64.0              # Progress bars
+
+# Development (optional)
+pytest>=7.2.0             # Testing
+black>=22.12.0            # Code formatter
+flake8>=5.0.0             # Linter
+mypy>=0.990               # Type checking
+jupyter>=1.0.0            # Jupyter notebooks
+ipython>=8.0.0            # Interactive shell
+
+# Documentation
+sphinx>=5.0.0             # Documentation generator
+sphinx-rtd-theme>=1.1.0   # ReadTheDocs theme

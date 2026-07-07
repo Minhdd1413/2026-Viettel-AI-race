@@ -175,30 +175,52 @@ data/
 ## 📁 Cấu Trúc Project
 
 ```
-2026-Viettel-AI-race/
-├── README.md                    # Tài liệu này
-├── crawler.ipynb               # Notebook cho scraping/exploration
-├── data/
-│   ├── tree_nodes.json         # ICD-10 tree structure
-│   ├── leaf_details.jsonl      # ICD-10 leaf nodes
-│   ├── icd10_tt06.csv         # ICD-10 chuẩn TT06
-│   ├── icd10_tt06.xlsx        # ICD-10 Excel format
-│   └── test/                   # Test dataset
-│       └── input/
-│           ├── 1.txt
-│           ├── 2.txt
-│           └── ...
-├── src/                        # Source code
-│   ├── __init__.py
-│   ├── concept_extraction.py   # NER & concept detection
-│   ├── concept_mapping.py      # Ánh xạ với chuẩn y tế
-│   ├── assertion_detection.py  # Phát hiện mối liên hệ
-│   └── utils.py               # Hàm tiện ích
-├── models/                     # Pre-trained models
-├── output/                     # Kết quả dự đoán (JSON)
-├── requirements.txt            # Dependencies
-└── main.py                     # Script chính
+viettel-race-2026/
+├── README.md                        # Tài liệu này
+├── requirements.txt                 # Dependencies
+├── .gitignore                       # Git ignore rules
+│
+├── data/                            # Dữ liệu
+│   ├── raw/                         # Dữ liệu thô (không sửa đổi)
+│   │   ├── icd10_tt06.csv
+│   │   ├── icd10_tt06.xlsx
+│   │   └── RxNorm_full_*.zip
+│   │
+│   └── processed/                   # Dữ liệu đã xử lý (sẵn dùng)
+│       ├── leaf_details.jsonl       # ICD-10 leaf nodes (2.7MB)
+│       ├── rxnorm_drugs_full.jsonl  # RXnorm drugs (37,000+ items)
+│       └── tree_nodes.json          # ICD-10 hierarchy
+│
+├── scripts/                         # Scripts
+│   ├── crawlers/                    # Crawl & fetch data
+│   │   ├── crawl_rxnorm.py
+│   │   ├── crawl_rxnorm_full.py
+│   │   └── crawl_rxnorm_comprehensive.py
+│   │
+│   └── processors/                  # Process & transform data
+│       └── generate_rxnorm_dataset.py
+│
+├── notebooks/                       # Jupyter notebooks
+│   └── analysis.ipynb
+│
+├── docs/                            # Documentation
+│   ├── PROJECT_STRUCTURE.md         # Project structure guide
+│   ├── DATA_SCHEMA.md              # Data format & schema
+│   ├── CONTRIBUTING.md             # Contribution guidelines
+│   └── RXNORM_DOWNLOAD_GUIDE.md    # RXnorm download guide
+│
+├── config/                          # Configuration files
+│   └── config.yaml
+│
+└── .claude/                         # Claude Code settings
+    └── settings.json
 ```
+
+**📖 Documentation Guide**:
+- Start here: [`PROJECT_STRUCTURE.md`](docs/PROJECT_STRUCTURE.md) - Overview & directory purposes
+- Data format: [`DATA_SCHEMA.md`](docs/DATA_SCHEMA.md) - JSONL schemas & examples
+- Contributing: [`CONTRIBUTING.md`](docs/CONTRIBUTING.md) - Team guidelines
+- RXnorm data: [`RXNORM_DOWNLOAD_GUIDE.md`](docs/RXNORM_DOWNLOAD_GUIDE.md) - How to get full dataset
 
 ---
 
