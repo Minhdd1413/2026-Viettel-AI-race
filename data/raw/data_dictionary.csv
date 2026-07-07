@@ -1,0 +1,107 @@
+file,column name,data type,description
+rxnatomarchive_current,rxaui,STRING,RxNorm Unique identifier for atom (RxNorm Atom ID)
+rxnatomarchive_current,aui,STRING,Metathesaurus Unique identifier for atom
+rxnatomarchive_current,str,STRING,String
+rxnatomarchive_current,archive_timestamp,STRING,Date/Time Archived
+rxnatomarchive_current,created_timestamp,STRING,Date/Time Created in this version of RxNorm
+rxnatomarchive_current,updated_timestamp,STRING,Date/Time Updated in this version of RxNorm
+rxnatomarchive_current,code,STRING,"Most useful source asserted identifier (if the source vocabulary has more than one identifier), or a Metathesaurus-generated source entry identifier (if the source vocabulary has none.)"
+rxnatomarchive_current,is_brand,STRING,Branded data flag (not used)
+rxnatomarchive_current,lat,STRING,Language of Term
+rxnatomarchive_current,last_released,STRING,Date this name (atom) was last released from RxNorm
+rxnatomarchive_current,saui,STRING,Source asserted atom identifier [optional]
+rxnatomarchive_current,vsab,STRING,Versioned Source Abbreviation
+rxnatomarchive_current,rxcui,STRING,RxNorm Unique identifier for concept (concept ID)
+rxnatomarchive_current,sab,STRING,Source abbreviation
+rxnatomarchive_current,tty,STRING,Term type in source
+rxnatomarchive_current,merged_to_rxcui,STRING,RxNorm Unique identifier for concept (concept ID) which name (atom) was merged into
+rxnconso_current,rxcui,STRING,RxNorm Unique identifier for concept (concept ID)
+rxnconso_current,lat,STRING,Language of Term
+rxnconso_current,ts,STRING,Term status (no value provided)
+rxnconso_current,lui,STRING,Unique identifier for term (no value provided)
+rxnconso_current,stt,STRING,String type (no value provided)
+rxnconso_current,sui,STRING,Unique identifier for string (no value provided)
+rxnconso_current,ispref,STRING,Atom status - preferred (Y) or not (N) for this string within this concept (no value provided)
+rxnconso_current,rxaui,STRING,Unique identifier for atom (RxNorm Atom ID)
+rxnconso_current,saui,STRING,Source asserted atom identifier [optional]
+rxnconso_current,scui,STRING,Source asserted concept identifier [optional]
+rxnconso_current,sdui,STRING,Source asserted descriptor identifier [optional]
+rxnconso_current,sab,STRING,Source abbreviation
+rxnconso_current,tty,STRING,Term type in source
+rxnconso_current,code,STRING,"""Most useful"" source asserted identifier (if the source vocabulary has more than one identifier), or a RxNorm-generated source entry identifier (if the source vocabulary has none.)"
+rxnconso_current,str,STRING,String
+rxnconso_current,srl,STRING,Source Restriction Level (no value provided)
+rxnconso_current,suppress,STRING,"Suppressible flag. Values = N, O, Y, or E. N - not suppressible. O - Specific individual names (atoms) set as Obsolete because the name is no longer provided by the original source. Y - Suppressed by RxNorm editor. E - unquantified, non-prescribable drug with related quantified, prescribable drugs. NLM strongly recommends that users not alter editor-assigned suppressibility."
+rxnconso_current,cvf,STRING,"Content view flag. RxNorm includes one value, '4096', to denote inclusion in the Current Prescribable Content subset. All rows with CVF='4096' can be found in the subset."
+rxncui_current,cui1,STRING,Unique identifier of retired concept
+rxncui_current,vsab_start,STRING,Version Source Abbreviation of the first RxNorm release CUI1 appeared in
+rxncui_current,vsab_end,STRING,Version Source Abbreviation of the last RxNorm release CUI1 appeared in
+rxncui_current,cardinality,STRING,The number of RXCUIs that CUI1 was moved or split to.
+rxncui_current,cui2,STRING,Unique identifier of synonymous concept for CUI1
+rxncuichanges_current,rxaui,STRING,RxNorm Unique identifier for concept (concept ID)
+rxncuichanges_current,code,STRING,"Most useful source asserted identifier (if the source vocabulary has more than one identifier), or a Metathesaurus-generated source entry identifier (if the source vocabulary has none.)"
+rxncuichanges_current,sab,STRING,Source abbreviation
+rxncuichanges_current,tty,STRING,Term type in source
+rxncuichanges_current,str,STRING,String
+rxncuichanges_current,old_rxcui,STRING,Old RxNorm Unique identifier for concept (concept ID)
+rxncuichanges_current,new_rxcui,STRING,New RxNorm Unique identifier for concept (concept ID)
+rxnrel_current,rxcui1,STRING,Unique identifier of first concept
+rxnrel_current,rxaui1,STRING,Unique identifier for first atom
+rxnrel_current,stype1,STRING,The name of the column in RXNCONSO.RRF that contains the identifier used for the first concept or first atom in source of the relationship
+rxnrel_current,rel,STRING,Relationship of second concept or atom to first concept or atom
+rxnrel_current,rxcui2,STRING,Unique identifier of second concept
+rxnrel_current,rxaui2,STRING,Unique identifier for second atom
+rxnrel_current,stype2,STRING,The name of the column in RXNCONSO.RRF that contains the identifier used for the second concept or second atom in the source of the relationship
+rxnrel_current,rela,STRING,Additional (more specific) relationship label (optional)
+rxnrel_current,rui,STRING,Unique identifier for relationship
+rxnrel_current,srui,STRING,"Source asserted relationship identifier, if present (no value provided)"
+rxnrel_current,sab,STRING,Abbreviation of the source of relationship
+rxnrel_current,sl,STRING,Source of relationship labels (no value provided)
+rxnrel_current,dir,STRING,Source asserted directionality flag. (no value provided) Y indicates that this is the direction of the relationship in its source; N indicates that it is not; a blank indicates that it is not important or has not yet been determined.
+rxnrel_current,rg,STRING,Machine generated and unverified indicator (optional)
+rxnrel_current,suppress,STRING,"Suppressible flag. Values = Y, E, or N. Reflects the suppressible status of the relationship; not yet in use. See also SUPPRESS in MRCONSO.RRF and MRDEF.RRF and MRREL.RRF in the UMLS Reference Manual."
+rxnrel_current,cvf,STRING,"Content view flag. RxNorm includes one value, 4096, to denote inclusion in the Current Prescribable Content subset. All rows with CVF=4096 can be found in the subset."
+rxnsab_current,vcui,STRING,CUI of the versioned SRC concept for a source
+rxnsab_current,rcui,STRING,CUI of the root SRC concept for a source
+rxnsab_current,vsab,STRING,"The versioned source abbreviation for a source, e.g., NDDF_2004_11_03"
+rxnsab_current,rsab,STRING,"The root source abbreviation, for a source e.g. NDDF"
+rxnsab_current,son,STRING,The official name for a source
+rxnsab_current,sf,STRING,The Source Family for a source
+rxnsab_current,sver,STRING,"The source version, e.g., 2001"
+rxnsab_current,vstart,STRING,"The date a source became active, e.g., 2001_04_03"
+rxnsab_current,vend,STRING,"The date a source ceased to be active, e.g., 2001_05_10"
+rxnsab_current,imeta,STRING,"The version of the Metathesaurus a source first appeared, e.g., 2001AB"
+rxnsab_current,rmeta,STRING,"The version of the Metathesaurus a source was removed, e.g., 2001AC"
+rxnsab_current,slc,STRING,The source license contact information. A semi-colon separated list containing the following fields: Name; Title; Organization; Address 1; Address 2; City; State or Province; Country; Zip or Postal Code; Telephone; Contact Fax; Email; URL
+rxnsab_current,scc,STRING,The source content contact information. A semi-colon separated list containing the following fields: Name; Title; Organization; Address 1; Address 2; City; State or Province; Country; Zip or Postal Code; Telephone; Contact Fax; Email; URL
+rxnsab_current,srl,STRING,"0,1,2,3,4 - explained in the License Agreement."
+rxnsab_current,tfr,STRING,"The number of terms for this source in RXNCONSO.RRF, e.g., 12343 (not implemented yet)"
+rxnsab_current,cfr,STRING,"The number of CUIs associated with this source, e.g., 10234 (not implemented yet)"
+rxnsab_current,cxty,STRING,The type of relationship label (Section 2.4.2 of UMLS Reference Manual)
+rxnsab_current,ttyl,STRING,"Term type list from source, e.g., MH,EN,PM,TQ"
+rxnsab_current,atnl,STRING,"The attribute name list, e.g., MUI,RN,TH,..."
+rxnsab_current,lat,STRING,The language of the terms in the source
+rxnsab_current,cenc,STRING,Character set as specified by the IANA official names for character assignments http://www.iana.org/assignments/character-sets
+rxnsab_current,curver,STRING,A Y or N flag indicating whether or not this row corresponds to the current version of the named source
+rxnsab_current,sabin,STRING,"A Y or N flag indicating whether or not this row is represented in the current MetamorphoSys subset. Initially always Y where CURVER is Y, but later is recomputed by MetamorphoSys."
+rxnsab_current,ssn,STRING,The short name of a source as used by the NLM Knowledge Source Server.
+rxnsab_current,scit,STRING,Citation information for a source. A semi-colon separated list containing the following fields: Author(s); Author(s) address; Author(s) organization; Editor(s); Title; Content Designator; Medium Designator; Edition; Place of Publication; Publisher; Date of Publication/copyright; Date of revision; Location; Extent; Series; Availability Statement (URL); Language; Notes
+rxnsat_current,rxcui,STRING,Unique identifier for concept (concept id)
+rxnsat_current,lui,STRING,Unique identifier for term (no value provided)
+rxnsat_current,sui,STRING,Unique identifier for string (no value provided)
+rxnsat_current,rxaui,STRING,RxNorm atom identifier (RXAUI) or RxNorm relationship identifier (RUI).
+rxnsat_current,stype,STRING,"The name of the column in RXNCONSO.RRF or RXNREL.RRF that contains the identifier to which the attribute is attached, e.g., CUI, AUI."
+rxnsat_current,code,STRING,"Most useful source asserted identifier (if the source vocabulary has more than one identifier), or a RxNorm-generated source entry identifier (if the source vocabulary has none.)"
+rxnsat_current,atui,STRING,Unique identifier for attribute
+rxnsat_current,satui,STRING,Source asserted attribute identifier (optional - present if it exists)
+rxnsat_current,atn,STRING,Attribute name. Possible values appear in RXNDOC.RRF and are described on the UMLS Attribute Names page
+rxnsat_current,sab,STRING,Abbreviation of the source of the attribute. Possible values appear in RXNSAB.RRF and are listed on the UMLS Source Vocabularies page
+rxnsat_current,atv,STRING,"Attribute value described under specific attribute name on the UMLS Attribute Names page. A few attribute values exceed 1,000 characters. Many of the abbreviations used in attribute values are explained in RXNDOC.RRF and included UMLS Abbreviations Used in Data Elements page"
+rxnsat_current,suppress,STRING,"Suppressible flag. Values = O, Y, or N. Reflects the suppressible status of the attribute. N - Attribute is not suppressed. O - Attribute is suppressed at source level. Y - Attribute is suppressed by RxNorm editors."
+rxnsat_current,cvf,STRING,"Content view flag. RxNorm includes one value, 4096, to denote inclusion in the Current Prescribable Content subset. All rows with CVF=4096 can be found in the subset."
+rxnsty_current,rxcui,STRING,Unique identifier of concept (concept id)
+rxnsty_current,tui,STRING,Unique identifier of Semantic Type
+rxnsty_current,stn,STRING,Semantic Type tree number
+rxnsty_current,sty,STRING,Semantic Type. The valid values are defined in the Semantic Network.
+rxnsty_current,atui,STRING,Unique identifier for attribute
+rxnsty_current,cvf,STRING,Content view flag (no value provided)

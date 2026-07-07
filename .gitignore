@@ -22,6 +22,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.zip
 
 # IDE
 .vscode/
@@ -45,6 +46,13 @@ data/raw/**/*.7z
 *.pkl
 *.pickle
 
+# Raw RXnorm Kaggle download (1.1GB, regenerable via
+# scripts/crawlers/download_rxnorm_kaggle.py + scripts/processors/parse_rxnorm_csv.py)
+# Keep small reference files (data_dictionary.csv, icd10_tt06.*) tracked.
+data/raw/rxnorm_*.csv
+data/raw/*.RRF
+data/raw/rrf/
+
 # Temporary/Generated
 *.log
 *.tmp
@@ -53,9 +61,9 @@ checkpoint/
 *.checkpoint
 rxnorm_crawl_checkpoint.json
 
-# Output (regenerable)
-output/
-results/
+# Output (regenerable) - root-level only; keep tests/*/output tracked
+/output/
+/results/
 *.json.bak
 
 # Environment
@@ -72,3 +80,6 @@ desktop.ini
 # Project specific
 node_modules/
 crawl_*.log
+
+# Claude Code local runtime state (logs, locks, scratch) - not shared config
+.claude/
